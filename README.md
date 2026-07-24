@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,10 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+## benefit of tailwind css
+- we easily style or customise our HTML elements without leaving HTML file with the help of the classes
+## Using play cdn .{
+    play cdn is used to test tailwind in the browser without requiring any build steps and is not recomended for production.
+}
+>>>>>>> ad1b85d8693f1fc27a366246afa2cffa8df96f80
